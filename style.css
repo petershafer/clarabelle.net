@@ -1,0 +1,373 @@
+/* PRIMARY COLOR SCHEME */
+body{
+  /*background-color: #FFF2E5;*/
+  background-color: #FFEB99;
+  padding: 0px;
+  margin: 0px 0px;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+div.main{
+  border:1px solid #fdcfaf;
+  /*background-color: #d88f6e;*/
+  /*background-color: #7B3A1A;*/
+  background-color: #FFF4C9;
+  
+  text-align: left;
+  width: 750px;
+  text-align:left; 
+  min-width: 475px;margin-left:auto; 
+  margin-top:0px;
+  margin-right:auto; 
+}
+div.main div.footer{
+  background-color: #F0CF76;
+  padding: 5px 5px;
+  text-align: right;
+  font-family: inherit;
+  font-size: 12px;
+  color: #000000;
+  clear: both;
+  height: 20px;
+}
+div.main div.header2{
+  /*background-color: #7B3A1A;*/
+  /*background-color: #4A1313;*/
+  background-color: #F0CF76;
+  padding: 5px 5px;
+  text-align: left;
+  font-family: inherit;
+  font-size: 12px;
+  color: #000000;
+  clear: left;
+  /*margin-bottom: 10px;*/
+}
+div.main div.header{
+  background-color: #6C2E17;
+  padding: 5px 5px;
+  text-align: center;
+  font-family: inherit;
+  font-size: 14px;
+  color: #fedfbf;
+  clear: left;
+  display: block;
+}
+div.subheader div.moretitle{
+  float: left;
+  font-size: 10px;
+  /*font-weight: bold;*/
+  border-left-style: solid;
+  border-left-width: 2px;
+  border-left-color: #ffffff;
+  color: #ffffff;
+  padding-left: 10px;
+  margin-top: 5px;
+}
+div.body{
+  clear: left;
+  border-top-style: dotted;
+  border-top-width: 1px;
+  border-top-color: #843b1a;
+  padding-top: 0px;
+}
+input.search{
+  width: 75px;
+  border-style: inset;
+  border-color: #111111;
+  border-width: 1px;
+  background-color: #c0c0c0;
+  padding: 2px;
+}
+input.searchgo{
+  width: 25px;
+  border-style: outset;
+  border-color: #111111;
+  border-width: 1px;
+  background-color: #c0c0c0;
+  padding: 2px;
+}
+
+
+/* HEADER LINKS */
+div.main div.header a{
+  color: #F5F5DC;
+  text-decoration: none;
+}
+
+div.main div.header2 a{
+  color: #000000;
+  text-decoration: none;
+}
+
+div.main div.header a:visited{
+  color: #F5F5DC;
+}
+
+div.main div.header2 a:visited{
+  color: #000000;
+}
+
+div.main div.header a:hover{
+  text-decoration: underline;
+  color: #F5F5DC;
+}
+
+div.main div.header2 a:hover{
+  text-decoration: underline;
+  color: #000000;
+}
+
+div.main div.header a:active{
+  color: #F5F5DC;
+}
+
+div.main div.header2 a:active{
+  color: #000000;
+}
+
+
+
+
+
+/* SECONDARY COLORS */
+div.subheader{
+  padding: 10px
+  text-align: left;
+  font-family: inherit;
+  font-size: 16px;
+  color: #4a1313;
+  clear: left;
+  display: block;
+  /*background-color: #d88f6e;*/
+  /*background-color: #DFB409;*/
+  background-color: #38110C;
+  /*width: 550px;*/
+  width: 100%;
+  /*border-bottom-style: dotted;
+  border-bottom-color: #6B2421;
+  border-bottom-width: 1px;*/
+}
+div.header2 a{
+  color: #6B2421;
+}
+div.main div.menu{
+  float: right;
+  width: 150px;
+  margin-left: 0px;
+  margin-top: 10px;
+  /*clear: right;*/
+  /*background-color: #7B3A1A;*/
+  background-color: #F0CF76;
+  margin-right: 5px;
+  padding: 5px;
+  
+
+}
+div.thumbnail img{
+  border-style: solid;
+  background-color: #DFB409;
+  border-color: #F0CF76;
+  border-width: 4px;
+  margin: 5px 25px;
+  /*height: 100px;
+  width: 75px;*/
+  text-align: center;
+  text-align:left; 
+  margin-left:auto; 
+  margin-top:0px;
+  margin-right:auto; 
+}
+
+div.wrapper{
+  display: block;
+  margin: 5px 25px;
+  padding: 0px;
+
+  /*background-color: #DFB409;  */
+  margin-left:auto; 
+  margin-top:0px;
+  margin-right:auto;    
+}
+
+div.content{
+  width: 565px;
+  float: left;
+  color: #000000;
+  /*background-color: #d88f6e;*/
+  /*background-color: #FFF4C9;*/
+}
+div.painting img{
+  border-style: solid;
+  background-color: #DFB409;
+  border-color: #F0CF76;
+  border-width: 7px;
+  display: block;
+  text-align:left; 
+  margin: 0px auto; 
+}
+div.painting h1{
+  font-size: 14px;
+  font-weight: bold;
+  font-family: inherit;
+  text-align: center;
+  margin: 10px 0px;
+  color: #000000;
+}
+div.painting p{
+  text-align: center;
+  font-size: 12px;
+  color: #000000;
+}
+div.menu a, div.content a{
+  /*color: #111111;*/
+  color: #000000;
+  text-decoration: none;
+}
+div.menu a:visited, div.content  a:visited{
+  /*color: #111111;*/
+  color: #000000;
+}
+div.menu a:hover, div.content  a:hover{
+  text-decoration: underline;
+  /*color: #111111;*/
+  color: #000000;
+}
+div.menu a:active, div.content  a:active{
+  /*color: #111111;*/
+  color: #000000;
+}
+img.misc{
+  border-style: solid;
+  border-color: #6B2421;
+  border-width: 1px;
+  display: block;
+  text-align:left; 
+  margin: 0px auto; 
+}
+div.menu h1{
+  color: #000000;
+}
+a.back{
+  font-size: 18px;
+  font-weight: bold;
+  color: #6B2421;
+}
+
+
+
+
+
+
+
+
+/* NOT COLOR RELATED */
+
+div.main h2{
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  /*margin: 0px;*/
+  margin-left: 35px;
+  margin-top: 10px;
+  padding: 0px;
+  color: #000000;
+}
+h1,h2,h3,h4,h5,h6{
+  clear: left;
+  display: block;
+}
+div.main p{
+  font-size: 14px;
+  line-height: 150%;
+  margin: 10px;
+}
+div.main div.header ul{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+div.main div.header li{
+  display: inline;
+  margin: 0px 5px;
+}
+
+div.subheader div.title{
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  padding-left: 10px;
+  padding-top: 5px;
+  color: #ffffff;
+}
+div.subheader div.right{
+  float: right;
+  font-size: 10px;
+}
+
+div.main div.menu ul{
+  list-style-type: none;
+  margin: 10px;
+  padding: 0px;
+}
+div.main div.menu li{
+  margin: 5px 0px;
+  font-size: 12px;
+}
+div.main div.menu h1{
+  font-size: 18px;
+  font-family: inherit;
+  font-weight: normal;
+  margin: 0px;
+  padding: 0px;
+}
+div.gallery{
+  margin-top: 5px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+  width: 100%;
+  text-align: center;
+}
+
+div.gallery p{
+  text-align: left;
+  display: block;
+  width: 90%;
+}
+
+div.thumbnail{
+  float: left;
+  /*height: 225px;*/
+  width: 150px;
+  margin: 10px 10px;
+  /*border: medium solid #000000;*/
+  text-align: center;
+}
+
+div.thumbnail p{
+  text-align: center;
+  margin: 0px;
+  font-size: 12px;
+  font-family: inherit;
+  display: block;
+  width: 100%;
+}
+h1{
+  clear: left;
+  padding: 0px;
+  margin: 0px 25px;
+}
+div.painting{
+  width: 100%;
+  /*background-color: #d88f6e;*/
+  background-color: #FFF2E5;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+.musicdownload{
+  text-align: left;
+  margin-left: 10px;
+}

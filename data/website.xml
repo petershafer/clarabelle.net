@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<clarabellenet>
+    <frontpage>
+    <![CDATA[
+    
+    ]]>
+    </frontpage>
+
+	<galleries>
+
+		<gallery>
+			<name>Archetypes</name>
+			<position></position>
+			<introduction>
+            <![CDATA[
+			The contents of the unconscious are called archetypes.  Jung referred to the archetypes as primordial and mythological images. We inherit the outlines of the archetypes instinctually,  fill them in with colors and details of our own individual experiences, attach meaning to them, and project them into the world. The archetypes serve as gatekeepers to guide us on our sacred journey  to fulfill our Higher Purpose. Grateful acknowledgment to Plato, Jung, Joseph Campbell and Caroline Myss.             
+			]]>
+            </introduction>
+            <frontpage>1</frontpage>
+			<sidebar>1</sidebar>
+			<altsizes>1</altsizes>
+			<painting>
+				<name>The Wounded Child</name>
+				<size>30 x 36</size>
+				<price>$1,800</price>
+				<info>Memories of  childhood abuse, neglect and other traumas are stored in the psyche of the Wounded Child.  The dark side suggests that you credit your painful childhood and blame your parents or caregivers for your current dysfunctional relationships -   the light side offers hope and healing.  Painful experiences of the Wounded Child often awakens a deep sense of empathy to heal others.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>The Warrior</name>
+				<size>24 x 30</size>
+				<price>$1,600</price>
+				<info>The pilgrimage of the Warrior involves the Rite of Passage.  The Warrior has to slay the dragon and confront his adversaries. He might have to defy his own father, confront his boss or embark upon an entrepreneurial adventure.  The energy of the Warrior is erotic and the journey is linked to strength, virility and courage. The serpent represents the shadow of the Warrior - in Christianity the serpent is regarded evil and cast out - but in Buddhism and Hinduism, the serpent represents healing. The serpent destroys evil.  The shedding of  the skin symbolizes the cycle of death and rebirth.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>The Artist (Dancer, Musician, Actor, Author, Sculptor)</name>
+				<size>30 x 36</size>
+				<price></price>
+				<info>The intuitive artisan embodies the passion to express a dimension of life just beyond the five senses.  The passion within is the driving force to proclaim the extraordinary. The lizards in the painting are sun seekers, striving to invigorate their souls. The gregarious Springbokkies (jumping gazelles) are known for their high leaps. The shadow Artist  should guard against over indulgence and the insanity of genius.</info>
+				<sold></sold>
+			</painting>
+
+			<painting>
+				<name>The Queen</name>
+				<size>30 x 36</size>
+				<price></price>
+				<info>The Queen archetype is associated with strength and authority found in some degree in all women. She protects her court and with elegance and immaculate style she beautifies her surroundings.  The Queen can be found anywhere from her professional alliance to the feathering of her nest.  Due to a lack of tribal allegiance, the queen has to guard against betrayal. The Royal matriarch can exhibit aggressive or manipulative behavior when her authority is opposed.</info>
+				<sold></sold>
+			</painting>
+
+			<painting>
+				<name>The Prostitute</name>
+				<size>24 x 30</size>
+				<price></price>
+				<info>The Prostitute comes into play when our survival is threatened.  When we negotiate our integrity and corrupt our spirit for financial gain: To stay in an unhappy marriage for the sake of financial security.   To debase your talents or ideas for promotion. The Prostitute archetype dramatically embodies and tests the power of faith. If you have faith, no one can buy you.  Without faith you will eventually sabotage your own personal ethics. The Reiki symbol on the hair clip is Cho-Ku Rei (cho ku ray) the feminine symbol of power. The spiral shape is found in all natural phenomena, weather patterns, thunderstorms and hurricanes, human DNA and Fibonacci.  Clockwise is the direction of invoking and increasing.</info>
+				<sold></sold>
+			</painting>
+
+			<painting>
+				<name>The Lover</name>
+				<size>24 x 30</size>
+				<price></price>
+				<info>The Lover archetype expresses unbridled devotion.  The monogamous pair of guinea fowl illustrate their pledge of fidelity. The shadow of the lover gravitates towards dysfunctional relationships, jeopardizing a healthy union.     </info>
+				<sold></sold>
+			</painting>
+
+		</gallery>
+
+		<gallery>
+			<name>Carnival of the Heart</name>
+			<position></position>
+			<introduction>
+            <![CDATA[
+             
+             ]]>
+            </introduction>
+            <frontpage>0</frontpage>
+			<sidebar>1</sidebar>
+
+			<painting>
+				<name>Passion</name>
+				<size>30 x 36</size>
+				<price>$4,000</price>
+				<info>Passion emulates the sensual connection between lovers. Two becomes one. That perfect, fleeting moment, where anything is possible. The lovers are surrounded by the heat of burning rouge de cadmium which resembles their desire for each other.</info>
+				<sold>0</sold>
+				<altsizes>1</altsizes>
+			</painting>
+
+			<painting>
+				<name>I Offer You My Heart</name>
+				<size>30 x 36</size>
+				<price>$4,000</price>
+				<info>The couple has surrended their loving hearts to each other. The zodiac moon symbolizes the ebb and flow of the relationship. The tree emulates the remarkable resilience and strength of undying love.</info>
+				<sold>0</sold>
+				<altsizes>1</altsizes>
+			</painting>
+
+			<painting>
+				<name>Robber of Hearts</name>
+				<size>30 x 36</size>
+				<price>$3,500</price>
+				<info>Robber of Hearts tells the ancient story of infidelity. While he whispers in his lover¹s ear to distract her, she is robbed of her devoted heart. From the little bag one notices his handsome collection of hearts! </info>
+				<sold>0</sold>
+				<altsizes>1</altsizes>
+			</painting>
+
+			<painting>
+				<name>Gatekeeper of My Heart</name>
+				<size>30 x 36</size>
+				<price>$3,500</price>
+				<info>With cunning wizardry, the Gatekeeper unlocks the heart of his unsuspecting maiden. She floats away willingly intoxicated by his beguiling charm. </info>
+				<sold>0</sold>
+				<altsizes>1</altsizes>
+			</painting>
+
+			<painting>
+				<name>The Puppetmaster</name>
+				<size>30 x 36</size>
+				<price>$3,000</price>
+				<info>The Puppetmaster has the upper hand and it is with skillful care that he manipulates the strings of his marionette. Although the spotlight illuminates her presence on the box (sealed with moon and star promises), in reality she is powerless, unable to change the course of her destiny.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>Juggling Hearts</name>
+				<size>30 x 36</size>
+				<price>$2,500</price>
+				<info>The juggler is toying with many hearts. The trapeze artist is attempting to balance on a universe sealed with illusive promises of faraway moons and stars.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>The Bird Catcher</name>
+				<size>30 x 36</size>
+				<price>$2,500</price>
+				<info>The Bird catcher is quite pleased with himself. The "feather in his cap" infers that he has captured his victim. The conquest has scarred her fragile wings and pillaged her of any desire to escape.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>Geslote (Locked away)</name>
+				<size>30 x 36</size>
+				<price>$2,500</price>
+				<info>Geslote deals with fear of intimacy. Although her approach is gentle and unobtrusive, he retreats, petrified of his inability to "unlock" his heart.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>My Heart I keep for You</name>
+				<size>30 x 36</size>
+				<price>$2,500</price>
+				<info>Two lovers seal their love with a promise to each other. The ferris wheel in the background symbolizes the recurring challenges. The lights in the trees sparkle with many blessings that await them.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>Carnival of my Heart</name>
+				<size>7ft. x 9ft.</size>
+				<price>$20,000</price>
+				<info>The final piece of this collection represents various ethnic groups in the world gathering together to celebrate the movement of life. The waving flag represents unity and the ladders provide ways of crossing barriers and reaching out to one another. The striped and dotted animals welcome all eccentricities. The trumpet played by the dwarf invites the world to join in to play with Passion and dance with Joy!</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>Lonely</name>
+				<size>30 x 36</size>
+				<price>$3,000</price>
+				<info>Lonely, inspired by one of Pablo Neruda's love poems. "I was so lonely, even the birds fled from me..." The figure is seated underneath an African Baobab tree which is a symbol for endurance, wisdom and fertility. His hands are grasping up into the sky in an effort to nestle a bird to comfort his tortured heart. The figure¹s closed eyes embodies his feeling of despair.</info>
+				<sold>0</sold>
+			</painting>
+
+		</gallery>
+
+		<gallery>
+			<name>Childhood in Africa</name>
+			<position></position>
+			<introduction>
+            <![CDATA[
+             
+             ]]>
+            </introduction>
+            <frontpage>0</frontpage>
+			<sidebar>1</sidebar>
+
+			<painting>
+				<name>Tian met Rooihaan (Redrooster)</name>
+				<size>24 x 30</size>
+				<price>$1,800</price>
+				<info></info>
+				<sold>0</sold>
+				<altsizes>1</altsizes>
+			</painting>
+
+			<painting>
+				<name>My Heart belongs to Africa</name>
+				<size>24 x 30</size>
+				<price>$2,800</price>
+				<info></info>
+				<sold>1</sold>
+			</painting>
+
+			<painting>
+				<name>Letting go</name>
+				<size>30 x 36</size>
+				<price>$3,200</price>
+				<info></info>
+				<sold>1</sold>
+			</painting>
+
+			<painting>
+				<name>Pappa en Ek (Daddy and I)</name>
+				<size>24 x 30</size>
+				<price>$3,500</price>
+				<info></info>
+				<sold>1</sold>
+			</painting>
+
+			<painting>
+				<name>Sondagmiddag op die plaas (Sunday Afternoon on the farm)</name>
+				<size>24 x 30</size>
+				<price>$1,200</price>
+				<info></info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>Mamma en Ek (Mommy and I)</name>
+				<size>24 x 30</size>
+				<price>$3,500</price>
+				<info></info>
+				<sold>1</sold>
+			</painting>
+
+			<painting>
+				<name>Makasonke (Little Prince)</name>
+				<size>24 x 30</size>
+				<price></price>
+				<info>This is a painting of my Nanny whose baby boy died.  She had lived in a remote area in Zulu land where there wasn't any medical attention for miles. As the condition worsened she made her way down the dirt road to the  clinic and the child died in her arms.  Grief stricken she told me afterwards: "My eyes don't want to stop raining."</info>
+				<sold></sold>
+				<altsizes>1</altsizes>
+			</painting>
+
+			<painting>
+				<name>Drie Susters</name>
+				<size></size>
+				<price></price>
+				<info></info>
+				<sold></sold>
+				<altsizes>0</altsizes>
+			</painting>
+
+		</gallery>
+
+		<gallery>
+
+			<name>Portraits</name>
+			<position></position>
+			<introduction>
+            <![CDATA[
+             
+             ]]>
+            </introduction>
+            <frontpage>0</frontpage>
+			<sidebar>1</sidebar>
+
+			<painting>
+				<name>Portrait #1</name>
+				<size>11 x 14</size>
+				<price></price>
+				<info></info>
+				<sold></sold>
+			</painting>
+
+			<painting>
+				<name>Portrait #2</name>
+				<size>11 x 14</size>
+				<price></price>
+				<info></info>
+				<sold></sold>
+			</painting>
+		</gallery>
+
+		<gallery>
+			<name>Summer</name>
+			<position></position>
+			<introduction>
+            <![CDATA[
+             
+             ]]>
+            </introduction>
+            <frontpage>0</frontpage>
+			<sidebar>1</sidebar>
+			<altsizes>1</altsizes>
+			<painting>
+				<name>Summer Pear</name>
+				<size>30 x 36</size>
+				<price>$1,200</price>
+				<info></info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>Green D'Anjou Pear</name>
+				<size>24 x 30</size>
+				<price>$500</price>
+				<info></info>
+				<sold>1</sold>
+			</painting>
+
+			<painting>
+				<name>Green Summer Pear</name>
+				<size>24 x 36</size>
+				<price>$400</price>
+				<info></info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>Apple of my Eye</name>
+				<size>24 x 30</size>
+				<price>$850</price>
+				<info></info>
+				<sold>1</sold>
+			</painting>
+
+			<painting>
+				<name>Strawberry Bliss</name>
+				<size>24 x 30</size>
+				<price>$850</price>
+				<info></info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>Tropical Pinapple</name>
+				<size>30 x 36</size>
+				<price>$1,200</price>
+				<info></info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>Banana</name>
+				<size>30 x 36</size>
+				<price>$1,200</price>
+				<info></info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>Cuppucino</name>
+				<size>30 x 36</size>
+				<price>$1,200</price>
+				<info></info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>The Fish</name>
+				<size></size>
+				<price></price>
+				<info></info>
+				<sold></sold>
+			</painting>
+
+		</gallery>
+
+		<gallery>
+			<name>More Paintings</name>
+			<position></position>
+			<introduction>
+            <![CDATA[
+			
+            ]]>
+            </introduction>
+            <frontpage>0</frontpage>
+			<sidebar>1</sidebar>
+
+			<painting>
+				<name>Choices</name>
+				<size>24 x 30</size>
+				<price></price>
+				<info></info>
+				<sold>1</sold>
+			</painting>
+
+			<painting>
+				<name>Healing My Heart</name>
+				<size>24 x 30</size>
+				<price>$900</price>
+				<info></info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>The Wedding Night</name>
+				<size>60 x 40</size>
+				<price></price>
+				<info></info>
+				<sold>1</sold>
+			</painting>
+
+			<painting>
+				<name>Miss Julie - Strindberg</name>
+				<size>24 x 30</size>
+				<price></price>
+				<info></info>
+				<sold>1</sold>
+			</painting>
+
+			<painting>
+				<name>Alone</name>
+				<size>8 x 10</size>
+				<price></price>
+				<info></info>
+				<sold></sold>
+			</painting>
+
+			<painting>
+				<name>The Gift</name>
+				<size>24 x 30</size>
+				<price></price>
+				<info></info>
+				<sold>1</sold>
+			</painting>
+
+			<painting>
+				<name>The Oracle</name>
+				<size>18 x 24</size>
+				<price>$2,900</price>
+				<info></info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>Burning Bed</name>
+				<size></size>
+				<price></price>
+				<info></info>
+				<sold></sold>
+			</painting>
+
+			<painting>
+				<name>Woman with Poppies</name>
+				<size>24 x 30</size>
+				<price></price>
+				<info></info>
+				<sold></sold>
+				<altsizes>1</altsizes>
+			</painting>
+			
+			<painting>
+				<name>Puppy Love</name>
+				<size>18 x 22</size>
+				<altsizes>1</altsizes>
+			</painting>
+
+			<painting>
+				<name>The Dancing Bear</name>
+				<size>26 x 45</size>
+				<info><![CDATA[<p>This painting is available in alternative giclee print sizes.<br />Size A: 11 x 18</p>]]></info>
+			</painting>
+
+			<painting>
+				<name>The Ballerina</name>
+			</painting>
+
+		</gallery>
+
+		<gallery>
+			<name>Soulmates Series</name>
+			<position></position>
+			<introduction>
+            <![CDATA[
+			
+            ]]>
+            </introduction>
+            <frontpage>0</frontpage>
+			<sidebar>0</sidebar>
+
+			<painting>
+				<name>Once upon a daydream</name>
+				<size>24 x 30</size>
+				<price>$2,000</price>
+				<info>Once upon a daydream there was a great and dangerous storm. The heavens shook and two of it most brilliant stars were born.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>The stars hurtled onto Mother Earth</name>
+				<size>24 x 30</size>
+				<price>$2,000</price>
+				<info>The stars hurtled onto Mother Earth and plopped down into her fertile belly.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>One sprouted magnificent arms and legs of fire.</name>
+				<size>24 x 30</size>
+				<price>$2,400</price>
+				<info>One sprouted magnificent arms and legs of fire. This was He.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>The other sprouted gracious arms and legs and of water.</name>
+				<size>24 x 30</size>
+				<price>$2,400</price>
+				<info>The other sprouted gracious arms and legs and of water. This was She.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>He was a warrior as strong as seven thousand suns.</name>
+				<size>24 x 30</size>
+				<price>$3,200</price>
+				<info>He was a warrior as strong as seven thousand suns.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>She was a lover as deep as seven thousand seas.</name>
+				<size>24 x 30</size>
+				<price>$2,900</price>
+				<info>She was a lover as deep as seven thousand seas.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>Balanced hand in hand they walked on Grandmother's back</name>
+				<size>24 x 30</size>
+				<price>$2,900</price>
+				<info>Balanced hand in hand they walked on Grandmother's back - dancing in lilies and feasting on dreams.</info>
+				<sold>0</sold>
+			</painting>
+
+			<painting>
+				<name>By the howl of the moon</name>
+				<size>5ft x 7ft</size>
+				<price>$5,900</price>
+				<info>By the howl of the moon He charmed out a blue fish and bestowed it to She. It swam in her womb where it grew for four seasons.</info>
+				<sold>0</sold>
+			</painting>
+
+		</gallery>
+
+	</galleries>
+
+   <pages>
+
+	  <page>
+        <pagename>About the Artist</pagename>	
+        <pagesidebar>0</pagesidebar>
+        <content>
+        <![CDATA[
+		      <div>
+			  <IMG class="misc" src="images/clari.jpg">
+			  <p style="text-align: center; font-size: 10px;">Photo:Hannes Pieterse</p>
+			  </div>
+			   <h2>Artist Statement</h2>
+				<p>	   
+                Discovering a painting from the valleys of my imagination and capturing it on canvas, is like delivering a message ordained from a Higher place. A force
+                flows through me gently, pointing out the destined forms, textures and colors. The making of art restores the fragmented distance from my South African shore.
+				</p>
+                <h2>The Artist: Clarabelle van Niekerk</h2>
+				<p>
+                Born in 1952, from Afrikaans descent; Studied at the Universiteit van die Oranje Vrystaat, Bloemfontein, South Africa; Toured Europe as cellist for The
+                Free State Orchestra; Art Lecturer at Zwelitsha Art College, King Williamstown; Founder of The London Puppet Theatre; Resident Artist for Erie Council of the Arts; Winner of many
+                International awards (including Grammy award for Best CD, Perry Cumberland Excellence in Puppetry Award, Educator of the Year Award, Book Cover Awards) Exhibits in North America and
+                abroad; Currently resides in Meadville, PA, USA.
+				</p>
+                <h2>Exhibitions</h2>
+						<p>
+					    MC GREGOR GALLERY, Johannesburg, South Africa<BR>
+                        IMAGES, Geneva, Switzerland<BR>
+
+                        SOUTHWESTERN ART, Taos, New Mexico, USA<BR>
+                        ASHWOOD DUNWOODY GALLERY, Atlanta, Georgia, USA<BR>
+                        GLASSGROWERS GALLERY, Erie, Pennsylvania, USA<BR>
+                        GRIFFON GALLERY, Cleveland, Ohio, USA<BR>
+                        THE KENNEDY GALLERY, Key West, Florida, USA<BR>
+                        COTTAGE EDITIONS, Carmel, California, USA<BR>
+
+                        THE LONG TABLE GALLERY, Victoria, Australia<BR>
+                        RAWSTYLE, Santa Monica, California, USA<BR>
+                        CARPE RACI, Cleveland, Ohio, USA<BR>
+                        MUSEUM OF FINE ART, Erie, Pennsylvania, USA<BR>
+						MEADVILLE FINE ART GALLERY, Meadville, Pennsylvania, USA<BR>
+						THE SEWICKLEY GALLERY, Pittsburgh, Pennsylvania, USA<BR>
+						EUROP'ART GALLERY, Pittsburgh, Pennsylvania, USA<br />
+						ADAM'S ART GALLERY, New York, NY, USA<br />
+						ALBRIGHT-KNOX ART GALLERY, Buffalo, New York, USA
+						</p>
+        ]]>
+        </content>   	
+	  </page>
+
+	  <page>
+        <pagename>Book Covers and Press Releases</pagename>	
+        <pagesidebar>0</pagesidebar>
+        <content>
+        <![CDATA[
+        
+		<table border="0" cellspacing="5">
+		<tr>
+		       <td align="center">
+			   <img class="misc" src="images/AEF.PNG">
+			   <h3>
+			   ARTEFAKT<br>
+			   More Images<br>
+			   <a href="images/AEF_1.JPG">Cover</a>, <a href="images/AEF_2.JPG">Page 1</a>, <a href="images/AEF_3.JPG">Page 2</a>
+			   </h3>
+			   </td>
+		       <td align="center">
+			   <img class="misc" src="images/ETN.PNG">
+			   <h3>   
+			   Erie Times News<br>
+			   More Images<br>
+			   <a href="images/ETN_1.JPG">Cover</a>, <a href="images/ETN_2.JPG">Page 1</a></h3>
+			   </td>
+		</tr>
+		<tr>
+		       <td align="center">
+			   <img src="images/3SISTERS.JPG" width="242" height="328">
+			   <h3>
+			   Three Sisters Chekhov
+			   </h3>
+			   </td>
+		       <td align="center">
+			   <img src="images/STVINCEN.JPG" width="257" height="307">
+			   <h3>
+			   St. Vincent Hospital
+			   </h3>
+			   </td>
+		</tr>
+		<tr>
+		       <td align="center">
+			   <img class="misc" src="images/ARTWORLD.JPG" width="331" height="238">
+			   <h3>
+			   Art World
+			   </h3>
+			   </td>
+		       <td align="center">
+			   <img class="misc" src="images/ARCHDIGE.JPG" width="254" height="331">
+			   <h3>
+			   Architectural Digest
+			   </h3>
+			   </td>
+		</tr>
+		<tr>
+		       <td align="center">
+			   <img class="misc" src="images/TRIBUNE5.JPG" width="351" height="306">
+			   <h3>	   
+			   The Meadville Tribune
+			   </h3>	   
+			   </td>
+		       <td align="center">
+			   <img class="misc" src="images/COSMO9.JPG" width="349" height="318">
+			   <h3>
+			   Sunday Times, Johannesburg
+			   </h3>
+			   </td>
+		</tr>
+		</table>
+
+        ]]>
+        </content>   	
+	  </page>
+
+	  <page>
+        <pagename>Artist Resident</pagename>	
+        <pagesidebar></pagesidebar>
+        <content>
+        <![CDATA[
+        
+		<table border="0" cellspacing="5">
+		<tr>
+		       <td align="center" colspan="2">
+			   <img class="misc" src="images/PUPPETS5.JPG" width="231" height="282">
+			   <h3>London Puppet Theatre</h3>
+			   </td>
+		</tr>
+		<tr>
+		       <td align="center">
+			   <img class="misc" src="images/MISTER_S.JPG" width="201" height="300">
+			   <h3>Mister Science</h3>
+			   </td>
+		       <td align="center">
+			   <img class="misc" src="imagesR/PUPPET_W.JPG" width="193" height="300">
+			   <h3>Puppet Workshops</h3>
+			   </td>
+		</tr>
+		<tr>
+		       <td align="center" colspan="2">
+			   <img class="misc" src="images/FANS_FOR.JPG" width="387" height="277">
+			   <h3>Fans for Japanese Workshop</h3>
+			   </td>
+		</tr>
+		</table>
+
+        ]]>
+        </content>   	
+	  </page>
+
+	  <page>
+        <pagename>Music Download</pagename>	
+        <pagesidebar></pagesidebar>
+        <content>
+        <![CDATA[
+        
+		<h3 class="musicdownload"><a href="http://www.myspace.com/clarabellevanniekerk" target="_blank">Listen to Clarabelle's music on MySpace.com</a></h3>
+		
+		<table border="0" cellspacing="5">
+		<tr>
+		       <td align="center" colspan="2">
+			   <img class="misc" src="images/KENNEDY3.JPG" width="457" height="300">
+			   <h3>Kennedy Center, Washington, DC</h3>
+			   </td>
+		</tr>
+		<tr>
+		       <td align="center" colspan="2">
+			   <img class="misc" src="images/SOUTH_AF.JPG" width="457" height="383">
+			   <h3>South African Tour</h3>
+			   </td>
+		</tr>
+		<tr>
+		       <td align="center">
+			   <img class="misc" src="images/CD13.JPG" width="230" height="228">
+			   <h3>Bollo-Mah-Kissy</h3>
+			   </td>
+		       <td align="center">
+			   <img class="misc" src="images/CD28.JPG" width="225" height="228">
+			   <h3>Roep die Engeles</h3>
+			   </td>
+		</tr>
+		</table>
+		
+        ]]>
+        </content>   	
+	  </page>
+
+	  <page>
+        <pagename>Comments</pagename>	
+        <pagesidebar></pagesidebar>
+        <content>
+        <![CDATA[
+        
+        ]]>
+        </content>   	
+	  </page>
+
+	  <page>
+        <pagename>Contact Artist</pagename>	
+        <pagesidebar></pagesidebar>
+        <content>
+        <![CDATA[
+        
+        ]]>
+        </content>   	
+	  </page>
+
+
+   </pages>
+</clarabellenet>
